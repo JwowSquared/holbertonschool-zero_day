@@ -1,1 +1,3 @@
-I would like to _emphasize_ that I'm not really sure what to put in here yet. I should read more about this.
+# Holberton Zero Day #
+This repository is made up of a few different smaller projects labeled 0x00 through 0x03.
+Check out their respective README files for more info!
