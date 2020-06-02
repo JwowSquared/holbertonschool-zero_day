@@ -1,0 +1,1 @@
+This README should appear in the 0x00-vagrant directory. Other useful tidbits to be added at a later time.
