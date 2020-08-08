@@ -1,5 +1,11 @@
 # Holberton Zero Day #
-This repository is made up of a few different smaller projects labeled 0x00 through 0x03.
-Check out their respective README files for more info!
+My first week at Holberton School, with a few projects introducing developing in a virtual machine.
 
-Also this README file was used in an exercise included in project 0x03-git to practice pulling changes from my "peers" (just me editing this README directly on GitHub)
+# Files #
+*	up_to_date - command to merge current branch with master remotely
+
+# Projects #
+*	0x00-vagrant - Introduced Git, Vagrant, VirtualBox, and READMEs
+*	0x01-emacs - Some basic commands used in the emacs text editor within the vagrant virtual machine.
+*	0x02-vi - Some basic commands used in the vi text editor within the vagrant virtual machine.
+*	0x03-git - This project acts as an additional introduction to the git interface and collaboration.
